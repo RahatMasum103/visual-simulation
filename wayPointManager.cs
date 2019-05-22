@@ -454,7 +454,7 @@ public class wayPointManager : MonoBehaviour {
                 lineRend.endColor = Color.black;
                 lineRend.startWidth = 0.8f;
                 lineRend.endWidth = 0.8f;
-                lineRend.Simplify(1);
+                //lineRend.Simplify(1);
               //  Debug.Log("Line reduced from " + lineRend.positionCount + " to " + lineRend.positionCount);
 
 
